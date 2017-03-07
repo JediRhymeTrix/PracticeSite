@@ -1,0 +1,5 @@
+iframe name=messageTxt width=500 height = 500 src=httpwww.amazon.comVTech-ABC-Text-and-GodpB0038BBHMSiframe
+form
+    textarea name=nMessage id=nMessage cols=100 rows=20textarea
+    input type=button value=click onClick=init() 
+form
